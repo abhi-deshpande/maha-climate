@@ -129,7 +129,7 @@ From the data analysis for climate data, it can be seen that -
 1. Indeed, there is a climate change seen over Maharashtra State, mainly due to rising overall temperatures.
 2. Rising temperatures have increased low pressure tendencies and overall rainfall, and there is a drastic contrast seen between Konkan and Marathwada, in terms of rainfall distribution.
 3. Summer rainfall has risen and post-monsoons rainfall has a slight decreasing trend. This may be an indicator that monsoons are approaching the state earlier than before, and are staying a bit longer.
-4. More contrast in heating and cooling of land was seen between west and east Maharashtra, resulting areas with high normal rainfalls to receive more intense ones. On the other hand, areas with less normal rainfall are observing more draughts.
+4. More contrast in heating and cooling of land was seen between west and east Maharashtra, resulting in areas with high normal rainfalls to receive more intense ones. On the other hand, areas with less normal rainfall are observing more droughts.
 5. Overall, climate is going to be intense in upcoming decade, in terms of all seasons.
 
 ## References for monsoons mechanism -
