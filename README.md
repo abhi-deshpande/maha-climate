@@ -58,7 +58,7 @@ Following procedures were needed to be performed to achieve this work -
 
 ### 1. Data Collection 
 
-Data collection is a crucial processes in analysis workflow. The data for this project was collected from India Meteorological Department, Pune from their dedicated Python library known as ***imdlib***. This library has all the necessary functions to handle high resolution gridded data, and is able to export the data for given longitudes and latitudes. As large amount of processing power was required to prepare a dataset from IMD's gridded data, it was not possible to easily process it on local computer. Therefore, the library was installed on Google's Collaboratory (Colab) with a default free compute instance. Daily rainfall and temperature data was thus collected, for past 51 years (1973 to 2023).
+Data collection is a crucial processes in analysis workflow. The data for this project was collected from India Meteorological Department, Pune from their dedicated Python library known as ***imdlib***. This library has all the necessary functions to handle high resolution gridded data, and is able to export the data for given longitudes and latitudes. As large amount of processing power was required to prepare a dataset from IMD's gridded data, it was not possible to easily process it on local computer. Therefore, the library was installed on Google's Collaboratory (Colab) with a default free compute instance. See the Jupyter Notebook [here.](https://github.com/abhi-deshpande/maha-climate/blob/main/data/imdlib%20data%20procecess.ipynb) Daily rainfall and temperature data was thus collected, for past 51 years (1973 to 2023).
 
 ### 2. Data Cleaning and Preparation of Dataset
 
