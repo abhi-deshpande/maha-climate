@@ -1,5 +1,7 @@
 # Maha Climate - a climate data analysis project
 
+![Logo](https://raw.githubusercontent.com/abhi-deshpande/maha-climate/main/images/Logo.png?token=GHSAT0AAAAAACRNO4M2JVPISZLTNPUQPDTYZRI6H6A)
+
 Welcome to the Maha Climate Project..! This is a Power BI data analytics project, focusing on climate analysis of Maharashtra State, India, from where I belong. While learning data analytics, I came across different domains where it can be applied and one of them is Climate. In this project, analysis of daily rainfall and temperatures has been performed in order to discover climate changes, if any.
 
 You can see the dashboard [here.](https://app.powerbi.com/view?r=eyJrIjoiZTE1YTU5M2MtMzEzOS00MGQ2LTk4MTctYzU1NTg0NjQ5ZDY2IiwidCI6IjRjZTg1NWFkLTMzYjctNGQ5Yy1iNGJhLTU5ZWNhMjYyZGE5OSJ9&pageName=ReportSection)
